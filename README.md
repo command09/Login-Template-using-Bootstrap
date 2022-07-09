@@ -2,6 +2,8 @@
 # Login-Template-using-Bootstrap
 Login templatee using bootstrap framework
 
+![Login Template View](http://khonsawan.go.th/skin/login.png)
+
 ## Install via package manager
 
   Install Bootstrap’s source Sass and JavaScript files via npm, RubyGems, Composer, or Meteor. Package managed installs don’t include documentation or our full build scripts. You can also [use our npm template repo](https://github.com/twbs/bootstrap-npm-starter) to quickly generate a Bootstrap project via npm.
@@ -27,5 +29,3 @@ Example: JavaScript Bundle with Popper
 ```js
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 ```
-
-![Login Template View](https://khonsawan.go.th/skin/login.png)
