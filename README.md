@@ -15,5 +15,12 @@ Login templatee using bootstrap framework
 
   When you only need to include Bootstrap’s compiled CSS or JS, you can use [jsDelivr](https://www.jsdelivr.com/package/npm/bootstrap). See it in action with our simple [quick start](https://getbootstrap.com/docs/5.2/getting-started/introduction/#quick-start), or [browse the examples](https://getbootstrap.com/docs/5.2/examples/) to jumpstart your next project. You can also choose to include Popper and our [JS separately](https://getbootstrap.com/docs/5.2/getting-started/introduction/#separate).
 
+`<!-- CSS only -->
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">`
+
+`<!-- JavaScript Bundle with Popper -->
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>`
 
 ![Login Template View](https://khonsawan.go.th/skin/login.png)
